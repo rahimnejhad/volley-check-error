@@ -1,4 +1,4 @@
-package com.hamavaran.starland.network;
+package com.package.name;
 
 import android.content.Context;
 import android.widget.Toast;
