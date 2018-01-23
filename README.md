@@ -1,2 +1,2 @@
 # volley-check-error
-Class 
+Class VolleyCheckError
