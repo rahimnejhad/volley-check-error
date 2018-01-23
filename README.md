@@ -16,5 +16,5 @@ StringRequest mStringRequest=new StringRequest(Request.Method.POST, url, new Res
     {
         new VolleyCheckError(error,IntroActivity.this,"introActivity").CheckError();
     }
-})
-``
+});
+```
